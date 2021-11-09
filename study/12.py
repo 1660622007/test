@@ -1,0 +1,18 @@
+#2021.04.12
+print('ws')
+places = ['xian','nanjing','shanxi','gansi']
+print(places)
+print(sorted(places))
+print(places)
+print(sorted(places,reverse=True))
+print(places)
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+a = len(places)
+print(a)
+places.sort()
+print(places)
+places.sort(reverse=True)
+print(places)
